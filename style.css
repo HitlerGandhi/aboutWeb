@@ -95,7 +95,7 @@ span{
 
 #jumbo{
     background-image: url("./images/hero-bg.png");
-    background-size: cover;
+    background-size:100% 100%;
     background-position: top center;
     position: relative;
     z-index: 1;
